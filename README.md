@@ -33,7 +33,3 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 <<<<<<< HEAD
-
-=======
-# **Примеры работы с API** 
->>>>>>> 77e634fe9ecf701be06a4914408fe125339b23ac
